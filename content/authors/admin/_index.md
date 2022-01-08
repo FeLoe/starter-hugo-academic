@@ -57,10 +57,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/felicia-löcherbach-b39a23141/
 
-# Link to a PDF of your resume/CV.
+#Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
+#- icon: cv
 #   icon_pack: ai
 #   link: uploads/cv.pdf
 
@@ -71,4 +71,4 @@ highlight_name: true
 
 Felicia Loecherbach is a PhD student in communication science at the Vrije Universiteit Amsterdam. Her research interests include online news consumption, using computational methods in the social sciences and recommender systems. She is the early career representative of the computational methods division of the International Communication Association and the editorial assistant of the open access journal Computational Communication Research. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
