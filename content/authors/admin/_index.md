@@ -70,5 +70,3 @@ highlight_name: true
 ---
 
 Felicia Loecherbach is a PhD student in communication science at the Vrije Universiteit Amsterdam. Her research interests include online news consumption, using computational methods in the social sciences and recommender systems. She is the early career representative of the computational methods division of the International Communication Association and the editorial assistant of the open access journal Computational Communication Research. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
