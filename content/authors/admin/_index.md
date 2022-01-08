@@ -53,9 +53,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/FeLoe
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/felicia-löcherbach-b39a23141/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2637-613X
 
 #Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
