@@ -46,7 +46,7 @@ social:
   link: 'mailto:f.loecherbach@vu.nl'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/FeLoe
+  link: https://twitter.com/fe_loe
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=OmhDMZAAAAAJ
