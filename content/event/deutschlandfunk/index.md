@@ -4,7 +4,7 @@ title: "Alexa, spiel Nachrichten: Wie Sprachassistentinnen Informationen auswäh
 event: Deutschlandfunk @mediasres
 event_url: https://www.deutschlandfunk.de/alexa-spiel-nachrichten-wie-sprachassistentinnen-informationen-auswaehlen-dlf-e6e0d2f3-100.html
 
-location: Online
+location: Deutschlandfunk
 
 summary: Interview on how smart assistants present news to users, based on report written for the German media authorities.
 #abstract: "This study tests the impact of news exposure about the COP21 Paris Climate Summit on pro-environmental behavioral intentions as well as actual behavior and the role of emotions in this process. The present study employs a two-wave panel survey (N=939). Special attention is paid to the role of different discrete emotions, i.e. anger, fear, hope and enthusiasm, with the potential to explain how such effects can come about. Findings indicate that exposure to news about the COP21 UN Paris Climate Summit had an impact on both positive and negative emotions towards the topic. Furthermore, anger, fear, and enthusiasm (but not hope) mediated the effect of news exposure on behavioral intentions. In line with expectations anger also showed to mediate the effect of news exposure on actual behavior."
