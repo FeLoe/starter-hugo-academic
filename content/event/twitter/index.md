@@ -4,7 +4,7 @@ title: "Using the Twitter API for academic research"
 event: Twitter Development Talk
 event_url: https://twitter.com/TwitterDev
 
-location: Online
+location: Twitter Development
 
 #summary: This study tests the impact of news exposure about the COP21 Paris Climate Summit on pro-environmental behavioral intentions as well as actual behavior and the role of emotions in this process.
 abstract: "Talk on how to use the Twitter API for research in political communication science"
