@@ -32,7 +32,7 @@ publication_types: ["1"]
 publication: In *13th ACM Web Science Conference*
 publication_short: In *WebSci'21*
 
-abstract: Modelling the different factors that lead people to choose news articles is one of the key challenges for understanding the diversity of news diets \– as a news diet is the result of a series of decisions for certain articles over others, a sequence of choices that was made by the individual consumer. This study sheds light on the interplay between content-related (past behavior, habits, preferences) and situational factors (positioning, saturation, control). The latter could offer possibilities to promote more unexpected news encounters that diverge from past news consumption.
+abstract: Modelling the different factors that lead people to choose news articles is one of the key challenges for understanding the diversity of news diets \– as a news diet is the result of a series of decisions for certain articles over others, a sequence of choices that was made by the individual consumer. This study sheds light on the interplay between content-related (past behavior, habits, preferences) and situational factors (positioning, saturation, control). The latter could offer possibilities to promote more unexpected news encounters that diverge from past news consumption. To test this, a Python-based web application for interactively testing different forms of news personalization over time was used. 247 respondents used the system over a two-week period, in total making almost 23,000 choices.
 
 # Summary. An optional shortened abstract.
 summary: Modelling the different factors that lead people to choose news articles is one of the key challenges for understanding the diversity of news diets.
