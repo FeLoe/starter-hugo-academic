@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-01-01T00:00:00Z"
 
-authors: []
+authors: [Felicia Loecherbach]
 tags: []
 
 # Is this a featured talk? (true/false)
