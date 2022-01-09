@@ -46,7 +46,7 @@ item:
   description: "Dutch public broadcaster (NPO) hackathon about designing a diversity-aware recommender system"
   organization: NPO
   organization_url: https://www.npo.nl
-  title: 'Winner Hackathon "Future Recommenders for public service media (3000€)'
+  title: 'Winner Hackathon "Future Recommenders for public service media" (3000€)'
   url: "https://mediaperspectives.nl/nieuwe-editie-media-hack-day-future-recommenders-for-public-media/"
 - certificate_url: ""
   date_end: ""
