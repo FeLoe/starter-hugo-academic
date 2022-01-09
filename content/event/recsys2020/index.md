@@ -1,24 +1,24 @@
 ---
-title: "Who's afraid of Climate Change? News coverage of the COP21 Paris Climate Summit and its effects on pro-environmental behavior"
+title: "Perceived control and satisfaction in news recommender systems"
 
-event: ICA Conference 2017
-event_url: https://convention2.allacademic.com/one/ica/ica17/
+event: ICA Conference 2020
+event_url: https://cdn.ymaws.com/www.icahdq.org/resource/resmgr/conference/2020/2020printprogram.pdf
 
-location: San Diego
+location: Virtual
 
-summary: This study tests the impact of news exposure about the COP21 Paris Climate Summit on pro-environmental behavioral intentions as well as actual behavior and the role of emotions in this process.
-abstract: "This study tests the impact of news exposure about the COP21 Paris Climate Summit on pro-environmental behavioral intentions as well as actual behavior and the role of emotions in this process. The present study employs a two-wave panel survey (N=939). Special attention is paid to the role of different discrete emotions, i.e. anger, fear, hope and enthusiasm, with the potential to explain how such effects can come about. Findings indicate that exposure to news about the COP21 UN Paris Climate Summit had an impact on both positive and negative emotions towards the topic. Furthermore, anger, fear, and enthusiasm (but not hope) mediated the effect of news exposure on behavioral intentions. In line with expectations anger also showed to mediate the effect of news exposure on actual behavior."
+#summary: This study tests the impact of news exposure about the COP21 Paris Climate Summit on pro-environmental behavioral intentions as well as actual behavior and the role of emotions in this process.
+abstract: "This study tests how different forms of news personalization affect perceived user control and satisfaction with a news recommender system."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-05-29T09:30:00Z"
+date: "2019-05-20T09:30:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-01-01T00:00:00Z"
 
-authors: []
+authors: [admin, Judith Moeller, Damian Trilling, Wouter van Atteveldt]
 tags: []
 
 # Is this a featured talk? (true/false)
