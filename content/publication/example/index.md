@@ -37,7 +37,7 @@ abstract: "Modelling the different factors that lead people to choose news artic
 # Summary. An optional shortened abstract.
 summary: Modelling the different factors that lead people to choose news articles is one of the key challenges for understanding the diversity of news diets.
 
-tags: []
+tags: [diversity, news recommender systems]
 
 # Display this page in the Featured widget?
 featured: true

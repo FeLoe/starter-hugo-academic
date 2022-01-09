@@ -34,7 +34,7 @@ abstract: 'The process of news consumption has undergone great changes over the 
 # Summary. An optional shortened abstract.
 summary: This study investigates reasons and motivations which might lead people to prefer algorithmic gatekeepers over human ones.
 
-tags: []
+tags: [algorithmic apprecation, algorithmic gatekeepers, algorithmic news selection, third person effect, uses and gratifications]
 
 # Display this page in the Featured widget?
 featured: false

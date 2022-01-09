@@ -15,11 +15,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-12-01T00:00:00Z"
+date: "2020-05-28T00:00:00Z"
 doi: "10.1080/21670811.2020.1764374"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-05-28T00:00:00Z"
+# publishDate: "2022-05-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,7 +34,7 @@ publication: In *Digital Journalism*
 abstract: "How to study media diversity has become a major concern in today’s media landscape. Many expect that algorithmic filtering and a shift of audiences from legacy media to new intermediaries decrease the diversity of news diets, leading to fragmented societies, polarization and spread of misinformation. Different fields, from journalism research to law and computer science, are involved in the study of media diversity. They operate, however, with vastly different vocabularies, frameworks, and measurements. To overcome this fragmentation, this study provides an extensive overview of conceptualizations and operationalizations of media diversity in different fields using a systematic literature review (1999–2018). This showed a lack of theorizing and linking of conceptual with empirical work in media diversity research. Based on this, we develop a framework on how to move forward: Regarding conceptualization, we call for focusing on different places in the journalistic information chain instead of the classical exposure-supply distinction. Methodologically, automated approaches (e.g., analyzing digital traces) and qualitative approaches (e.g., capturing perceptions of diversity) should receive more attention. For analysis, matters of balance and disparity need to be stressed more, especially discussing possible limits to diversity. Overall, research into media diversity thus needs to be addressed in interdisciplinary collaboration."
 
 # Summary. An optional shortened abstract.
-summary: This study investigates reasons and motivations which might lead people to prefer algorithmic gatekeepers over human ones.
+#summary: This study investigates reasons and motivations which might lead people to prefer algorithmic gatekeepers over human ones.
 
 tags: [Media diversity, systematic review, interdisciplinary work, pluralism]
 
