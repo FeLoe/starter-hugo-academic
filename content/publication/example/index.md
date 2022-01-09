@@ -32,7 +32,7 @@ publication_types: ["1"]
 publication: In *13th ACM Web Science Conference*
 publication_short: In *WebSci'21*
 
-abstract: Modelling the different factors that lead people to choose news articles is one of the key challenges for understanding the diversity of news diets.
+abstract: Modelling the different factors that lead people to choose news articles is one of the key challenges for understanding the diversity of news diets \– as a news diet is the result of a series of decisions for certain articles over others, a sequence of choices that was made by the individual consumer..
 
 # Summary. An optional shortened abstract.
 summary: Modelling the different factors that lead people to choose news articles is one of the key challenges for understanding the diversity of news diets.
@@ -78,13 +78,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /callout %}}
-
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
-
-#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
