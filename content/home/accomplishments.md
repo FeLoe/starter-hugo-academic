@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2021"
+  date_start: "2021-08-01"
   description: "Science Outreach program, collecting digital trace data with the “DataDonationLab” during the Lowlands festival
 (event cancelled)"
   organization: Lowlands Science
@@ -34,7 +34,7 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "2020"
+  date_start: "2021-12-01"
   description: "Report commissioned by the Landesanstalt für Medien, NRW. Cooperation with TU Dresden (50,000€, member of the research team)"
   organization: Landesanstalt fuer Medien NRW
   organization_url: https://medienanstalt-nrw.de
@@ -42,7 +42,7 @@ item:
   url: https://www.medienanstalt-nrw.de/fileadmin/user_upload/NeueWebsite_0120/Themen/Radio/LFMNRW_Whitepaper_Sprachassistenten_final.pdf
 - certificate_url: https://www.datacamp.com
   date_end: ""
-  date_start: "2020"
+  date_start: "2020-08-01"
   description: "Dutch public broadcaster (NPO) hackathon about designing a diversity-aware recommender system (3000€)"
   organization: NPO
   organization_url: https://www.npo.nl
