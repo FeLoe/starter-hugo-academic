@@ -1,5 +1,5 @@
 ---
-title: "Wat weet Facebook over jou _[What does Facebook know about you]_"
+title: "Wat weet Facebook over jou?"
 
 event: New Scientist
 event_url: https://www.newscientist.nl/blogs/wat-weet-facebook-over-wie-jij-echt-bent/

@@ -1,5 +1,5 @@
 ---
-title: "Alexa, spiel Nachrichten: Wie Sprachassistentinnen Informationen auswählen _[Alexa, play the news: How smart assistants select information]_"
+title: "Alexa, spiel Nachrichten: Wie Sprachassistentinnen Informationen auswählen"
 
 event: Deutschlandfunk @mediasres
 event_url: https://www.deutschlandfunk.de/alexa-spiel-nachrichten-wie-sprachassistentinnen-informationen-auswaehlen-dlf-e6e0d2f3-100.html
