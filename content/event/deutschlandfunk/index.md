@@ -1,5 +1,5 @@
 ---
-title: "Alexa, spiel Nachrichten: Wie Sprachassistentinnen Informationen auswählen [Alexa, play the news: How smart assistants select information]"
+title: "Alexa, spiel Nachrichten: Wie Sprachassistentinnen Informationen auswählen _[Alexa, play the news: How smart assistants select information]_"
 
 event: Deutschlandfunk @mediasres
 event_url: https://www.deutschlandfunk.de/alexa-spiel-nachrichten-wie-sprachassistentinnen-informationen-auswaehlen-dlf-e6e0d2f3-100.html
@@ -25,7 +25,7 @@ tags: []
 featured: false
 
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/PTDaKasR_p4)"
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/876c-F8YBrg)"
   focal_point: Right
 
 links:

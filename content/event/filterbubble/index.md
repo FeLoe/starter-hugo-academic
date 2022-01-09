@@ -1,5 +1,5 @@
 ---
-title: "Filterbubbles en digital recht [Filter bubbles and digital law]"
+title: "Filterbubbles en digital recht _[Filter bubbles and digital law]_"
 
 event: Radio Swammerdam
 event_url: http://www.radioswammerdam.nl/139992-2/
