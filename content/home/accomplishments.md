@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards and Funding'
 subtitle:
 
 # Date format
@@ -23,30 +23,31 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2021"
+  description: "Science Outreach program, collecting digital trace data with the “DataDonationLab” during the Lowlands festival
+(event cancelled)"
+  organization: Lowlands Science
+  organization_url: https://lowlands.nl/llscience/
+  title: Member of Lowlands Science with a Data Donation Lab
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date_start: "2020"
+  description: "Report commissioned by the Landesanstalt für Medien, NRW. Cooperation with TU Dresden (50,000€, member of the research team)"
+  organization: Landesanstalt fuer Medien NRW
+  organization_url: https://medienanstalt-nrw.de
+  title: Media Diversity and Transparency in Smart Speakers
+  url: https://www.medienanstalt-nrw.de/fileadmin/user_upload/NeueWebsite_0120/Themen/Radio/LFMNRW_Whitepaper_Sprachassistenten_final.pdf
 - certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  date_end: ""
+  date_start: "2020"
+  description: "Dutch public broadcaster (NPO) hackathon about designing a diversity-aware recommender system (3000€)"
+  organization: NPO
+  organization_url: https://www.npo.nl
+  title: 'Winner Hackathon "Future Recommenders for public service media'
+  url: "https://mediaperspectives.nl/nieuwe-editie-media-hack-day-future-recommenders-for-public-media/"
 
 design:
   columns: '2' 

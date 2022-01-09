@@ -1,28 +1,22 @@
 ---
-title: Example Talk
+title: "Who's afraid of Climate Change? News coverage of the COP21 Paris Climate Summit and its effects on pro-environmental behavior"
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: ICA Conference 2017
+event_url: https://convention2.allacademic.com/one/ica/ica17/
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: San Diego
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: This study tests the impact of news exposure about the COP21 Paris Climate Summit on pro-environmental behavioral intentions as well as actual behavior and the role of emotions in this process.
+abstract: "This study tests the impact of news exposure about the COP21 Paris Climate Summit on pro-environmental behavioral intentions as well as actual behavior and the role of emotions in this process. The present study employs a two-wave panel survey (N=939). Special attention is paid to the role of different discrete emotions, i.e. anger, fear, hope and enthusiasm, with the potential to explain how such effects can come about. Findings indicate that exposure to news about the COP21 UN Paris Climate Summit had an impact on both positive and negative emotions towards the topic. Furthermore, anger, fear, and enthusiasm (but not hope) mediated the effect of news exposure on behavioral intentions. In line with expectations anger also showed to mediate the effect of news exposure on actual behavior."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2017-05-29T09:30:00Z"
+#date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -31,43 +25,30 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/ycW4YxhrWHM)"
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
-
+slides: ""
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+#projects:
+#- example
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
