@@ -1,31 +1,31 @@
 ---
-title: "Who's afraid of Climate Change? News coverage of the COP21 Paris Climate Summit and its effects on pro-environmental behavior"
+title: "It takes three to tango - the interplay of political press releases, social media and newspapers."
 
-event: ICA Conference 2017
-event_url: https://convention2.allacademic.com/one/ica/ica17/
+event: ICA Conference 2019
+event_url: https://cdn.ymaws.com/www.icahdq.org/resource/resmgr/conference/2019/2019printprogram.pdf
 
-location: San Diego
+location: Washington
 
-summary: This study tests the impact of news exposure about the COP21 Paris Climate Summit on pro-environmental behavioral intentions as well as actual behavior and the role of emotions in this process.
-abstract: "This study tests the impact of news exposure about the COP21 Paris Climate Summit on pro-environmental behavioral intentions as well as actual behavior and the role of emotions in this process. The present study employs a two-wave panel survey (N=939). Special attention is paid to the role of different discrete emotions, i.e. anger, fear, hope and enthusiasm, with the potential to explain how such effects can come about. Findings indicate that exposure to news about the COP21 UN Paris Climate Summit had an impact on both positive and negative emotions towards the topic. Furthermore, anger, fear, and enthusiasm (but not hope) mediated the effect of news exposure on behavioral intentions. In line with expectations anger also showed to mediate the effect of news exposure on actual behavior."
+#summary:
+abstract: "The aim of our study is thus twofold: In a first step, we determine whether the press release is still a widely used form of party communication and whether signs of substitution by social media activity can be seen over time, indicating a change in the channels used by political parties to communicate to media and public (RQ1). This analysis can also give further insights into whether at certain stages in the election cycle different amounts of press releases have been issued – a question that can only be answered when looking at trends over longer time periods compared to specific events such as election periods. Second, we take a closer look at the influence of press releases on press coverage to determine to which extent the former can still exhibit influence on the latter (RQ2). This sheds the light on the development of press releases’ agenda setting function over time and their power to influence the public discourse via media outlets."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-05-29T09:30:00Z"
+date: "2019-05-27T15:30:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-01-01T00:00:00Z"
 
-authors: []
-tags: []
+authors: [admin, Damian Trilling]
+tags: [agenda setting, press releases, social media]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/ycW4YxhrWHM)"
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/3qglmiP1HK0)"
   focal_point: Right
 
 links:
