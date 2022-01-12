@@ -6,7 +6,7 @@ event_url: https://2019.ic2s2.org
 
 location: Amsterdam
 
-summary: Training a news domain specific word embedding model on Dutch journalistic content. 
+#summary: Training a news domain specific word embedding model on Dutch journalistic content. 
 abstract: "In this contribution, we investigate whether it is worth the effort to train a custom model rather than relying on (limited) available pre-trained models. For the case of Dutch, few embedding models are available, and they are trained on ordinary human language from the World
 Wide Web. These models capture the specifics of news article data less well and are therefore likely to be less suitable to study and understand dynamics of this domain."
 
