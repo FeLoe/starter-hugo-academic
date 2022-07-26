@@ -25,7 +25,23 @@ date_format: Jan 2006
 item:
   - certificate_url: ""
     date_end: ""
-    date_start: "2021-08-01"
+    date_start: "2022-08-01"
+    description: ""
+    organization: Computational Communication Research
+    organization_url: https://computationalcommunication.org/ccr/about/editorialTeam
+    title: Member of Editorial Board Computational Communication Research
+    url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: "2022-07-01"
+    description: ""
+    organization: Cost Action OPINION
+    organization_url: https://www.cost.eu/actions/CA21129/
+    title: Member of Cost Action OPINION
+    url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: "2022-08-01"
     description: ""
     organization: Lowlands Science
     organization_url: https://lowlands.nl/llscience/
