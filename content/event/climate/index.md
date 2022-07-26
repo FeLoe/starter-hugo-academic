@@ -6,7 +6,7 @@ event_url: https://convention2.allacademic.com/one/ica/ica17/
 
 location: San Diego
 
-summary: This study tests the impact of news exposure about the COP21 Paris Climate Summit on pro-environmental behavioral intentions as well as actual behavior and the role of emotions in this process.
+#summary: This study tests the impact of news exposure about the COP21 Paris Climate Summit on pro-environmental behavioral intentions as well as actual behavior and the role of emotions in this process.
 abstract: "This study tests the impact of news exposure about the COP21 Paris Climate Summit on pro-environmental behavioral intentions as well as actual behavior and the role of emotions in this process. The present study employs a two-wave panel survey (N=939). Special attention is paid to the role of different discrete emotions, i.e. anger, fear, hope and enthusiasm, with the potential to explain how such effects can come about. Findings indicate that exposure to news about the COP21 UN Paris Climate Summit had an impact on both positive and negative emotions towards the topic. Furthermore, anger, fear, and enthusiasm (but not hope) mediated the effect of news exposure on behavioral intentions. In line with expectations anger also showed to mediate the effect of news exposure on actual behavior."
 
 # Talk start and end times.
@@ -18,8 +18,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-01-01T00:00:00Z"
 
-authors: []
-tags: []
+authors: [Andreas Schuck, Anke Wonneberger, Marijn Meijers, Felicia Loecherbach]
+tags: [climate change, pro-environmental behavior, emotions]
 
 # Is this a featured talk? (true/false)
 featured: false
