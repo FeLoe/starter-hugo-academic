@@ -42,7 +42,7 @@ abstract: "The digital traces that people leave through their use of various onl
 # Summary. An optional shortened abstract.
 #summary: This study investigates reasons and motivations which might lead people to prefer algorithmic gatekeepers over human ones.
 
-tags: [digital trace data, data donation, digital platforms, privacy]
+tags: [digital trace data, data donation, digital platforms]
 
 # Display this page in the Featured widget?
 featured: true
