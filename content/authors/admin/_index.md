@@ -6,12 +6,12 @@ title: Felicia Loecherbach
 superuser: true
 
 # Role/position/tagline
-role: PhD Student Communication Science
+role: Postdoc CSMaP NYU
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Vrije Universiteit Amsterdam
-    url: https://vu.nl/en
+  - name: New York University
+    url: https://csmapnyu.org
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include understanding news consumption online making use of theories from political communication and journalism. I use computational methods to study digital trace data. Only publishing research and tools open source.
@@ -26,9 +26,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Postdoctoral Fellow CSMaP NYU
+      year: since 2022
     - course: PhD in Communication Science
       institution: Vrije Universiteit Amsterdam
-      year: since 2018
+      year: since 2018 (expected 2023)
     - course: MSc (Research Master) in Communication Science
       institution: University of Amsterdam
       year: 2018
@@ -43,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:f.loecherbach@vu.nl"
+    link: "mailto:fl2439@nyu.edu"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/fe_loe
@@ -68,7 +70,7 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am a PhD student in Political Communication Science at the [Vrije Universiteit Amsterdam](https://research.vu.nl/en/persons/felicia-loecherbach). My dissertation is part of the NWO-funded project ["Inside the filter bubble"](http://ccs.amsterdam/projects/jeds-tracking-the-filter-bubble/). Before joining the Department at the Vrije Universiteit, I received a research master degree from the [Amsterdam School of Communication Research](https://ascor.uva.nl). As of November 2022 I will join the [Center of Social Media and Politics (CSMaP)](https://csmapnyu.org) at the NYU as postdoctoral fellow.
+Welcome to my website! I am a postdoctoral fellow at the [Center of Social Media and Politics (CSMaP)](https://csmapnyu.org) at the NYU where I am working on projects around social media and politics. Prior to this, I have been a PhD student in Political Communication Science at the [Vrije Universiteit Amsterdam](https://research.vu.nl/en/persons/felicia-loecherbach). My dissertation was part of the NWO-funded project ["Inside the filter bubble"](http://ccs.amsterdam/projects/jeds-tracking-the-filter-bubble/). Before joining the Department at the Vrije Universiteit, I received a research master degree from the [Amsterdam School of Communication Research](https://ascor.uva.nl).
 
 My research interests include (the diversity of) online news consumption and using computational methods in the social sciences. I am motivated by the impact that changes in online environments have on the understanding and usage of news. Specifically, I use computational approaches to study when and where users come across different types of news -- collecting digital trace data via innovative approaches such as [data donations](https://github.com/uvacw/osd2f), analyzing different dimensions of diversity of the content and how it affects perceptions and attitudes of users. Apart from this, I have been involved in studying the challenges of different modes of news access, for example via news recommender systems and smart assistants.
 
