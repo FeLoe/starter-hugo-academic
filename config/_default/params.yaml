@@ -74,8 +74,7 @@ copyright_license:
   notice: "This work is licensed under {license}"
 abstract_length: 135
 plugins_js: []
-avatar:
-  gravatar: false
+: gr: false
   shape: circle
 publications:
   date_format: January 2006
