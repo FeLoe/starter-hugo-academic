@@ -1,25 +1,25 @@
 ---
-title: "Towards best practices of data donation: How different study settings impact the collection of digital traces"
+title: "Algorithmic Platforms and information quality"
 
-event: Post-API Conference
-event_url: https://sites.google.com/umich.edu/postapiconference/home
+event: Weizenbaum Symposium Critical Stances towards AI
+event_url: https://www.weizenbaum-institut.de/news/symposium-critical-stances-towards-ai/
 
-location: Philadelphia, PA
+location: New York City, NY
 
 #summary: This study tests the impact of news exposure about the COP21 Paris Climate Summit on pro-environmental behavioral intentions as well as actual behavior and the role of emotions in this process.
-abstract: "The impact of study setting on collecting digital trace data -- online study versus music festival"
+abstract: "Panelist with Jeff Allen and Jakob Ohme, discussing the role algortihmic platforms like social media and messenger services have for the spread of verified and unverified infromation in the digital societies."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-10-22T09:30:00Z"
+date: "2023-09-28T09:30:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2023-10-01T00:00:00Z"
 
-authors: [admin, Kasper Welbers, Zilin Lin, Damian Trilling]
-tags: []
+authors: [admin]
+tags: [AI, news quality, algorithms]
 
 # Is this a featured talk? (true/false)
 featured: false
