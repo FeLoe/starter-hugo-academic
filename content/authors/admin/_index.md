@@ -26,7 +26,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Postdoctoral Fellow CSMaP NYU
+    - course: Assistant Professor Political Communication and Journalism
+      institution: University of Amsterdam
+      year: 2024
+    - course: Postdoctoral Fellow
+      institution: Center for Social Media and Politics, New York University
       year: since 2022
     - course: PhD in Computational Communication Science, cum laude
       institution: Vrije Universiteit Amsterdam
@@ -70,8 +74,8 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am a postdoctoral fellow at the [Center of Social Media and Politics (CSMaP)](https://csmapnyu.org) at the NYU where I am working on projects around social media and politics. Prior to this, I have been a PhD student in Computational Political Communication Science at the [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/faculty-of-social-sciences/more-about/research-communication-science). My dissertation ["Diversity of News Consumption in a Digital Information Environment"](https://research.vu.nl/en/publications/diversity-of-news-consumption-in-a-digital-information-environmen) was part of the NWO-funded project ["Inside the filter bubble"](http://ccs.amsterdam/projects/jeds-tracking-the-filter-bubble/). Before joining the Department at the Vrije Universiteit, I received a research master degree from the [Amsterdam School of Communication Research](https://ascor.uva.nl).
+Welcome to my website! I am a postdoctoral fellow at the [Center of Social Media and Politics (CSMaP)](https://csmapnyu.org) at the NYU and an incoming assistant professor in political communication and journalism at the [Amsterdam School of Communication Research](https://ascor.uva.nl/content/research-groups/political-communication-journalism/political-communication-journalism.html). Prior to this, I have been a PhD student in Computational Political Communication Science at the [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/faculty-of-social-sciences/more-about/research-communication-science). My dissertation ["Diversity of News Consumption in a Digital Information Environment"](https://research.vu.nl/en/publications/diversity-of-news-consumption-in-a-digital-information-environmen) was part of the NWO-funded project ["Inside the filter bubble"](http://ccs.amsterdam/projects/jeds-tracking-the-filter-bubble/). Before joining the Department at the Vrije Universiteit, I received a research master degree from the [Amsterdam School of Communication Research](https://ascor.uva.nl).
 
-My research interests include (the diversity of) online news consumption and using computational methods in the social sciences. I am motivated by the impact that changes in online environments have on the understanding and usage of news. Specifically, I use computational approaches to study when and where users come across different types of news -- collecting digital trace data via innovative approaches such as [data donations](https://computationalcommunication.org/ccr/article/view/125), analyzing different dimensions of diversity of the content and how it affects perceptions and attitudes of users. Apart from this, I have been involved in studying the challenges of different modes of news access, for example via news recommender systems and smart assistants.
+My research interests include (the diversity of) online news consumption and using computational methods in the social sciences. I am motivated by the impact that changes in online environments have on the understanding and usage of news. Specifically, I use computational approaches to study when and where users come across different types of news -- collecting digital trace data via innovative approaches such as [data donations](https://computationalcommunication.org/ccr/article/view/125), analyzing different dimensions of diversity of the content and how it affects perceptions and attitudes of users. Apart from this, I have been involved in studying the challenges of different modes of news access, for example via news recommender systems, private messaging, and smart assistants.
 
 I am part of the [Computational Social Science Amsterdam](http://ccs.amsterdam) group. Ouside of my own research, I have been the early career representative of the [Computational Methods Division](https://www.icahdq.org/group/compmethds) of the International Communication Association and on the editorial board of the open access journal [Computational Communication Research](https://computationalcommunication.org/ccr). I frequently teach computational methods (R and Python) to social scientists and organize [hackathons](https://www.hackingcommsci.org) for social scientists.
